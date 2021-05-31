@@ -2,7 +2,7 @@
 
 ## Overview
 
-I created this repo/code to do a quick test of some functional style programming using the algorithms library. I wanted to compare the performance of functionaly style program vs a more iterative approach.
+I created this repo/code to do a quick test of functional style code using the algorithms library. I wanted to compare the performance of functional style code vs a  iterative code.
 
 ## Prereqs
 
